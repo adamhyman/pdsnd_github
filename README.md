@@ -8,8 +8,11 @@ Analyze Bike-share Data with Python
 Uses Python to read data bike-share data from 3 cities, and then analyze data based on user inputs
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I was inspired to make this by the fantastic Udacity course.  The instructions were very clear.  The course is even updated for the latest version of Git.  Thank you!
+
 
