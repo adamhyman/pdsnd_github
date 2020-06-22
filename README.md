@@ -5,7 +5,8 @@ June 21, 2020
 Analyze Bike-share Data with Python
 
 ### Description
-Uses Python to read data bike-share data from 3 cities, and then analyze data based on user inputs
+Uses Python to read data bike-share data from 3 cities, and then analyze data based on user inputs.
+The program also prints out data, based on the user inputs, 5 records at a time.
 
 ### Files used
 #### chicago.csv
