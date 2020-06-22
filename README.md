@@ -2,10 +2,10 @@
 June 21, 2020
 
 ### Project Title
-Replace the Project Title
+Analyze Bike-share Data with Python
 
 ### Description
-Describe what your project is about and what it does
+Uses Python to read data bike-share data from 3 cities, and then analyze data based on user inputs
 
 ### Files used
 Include the files used
