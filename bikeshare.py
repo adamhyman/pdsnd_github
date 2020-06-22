@@ -255,6 +255,8 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
+
+        #  Added this view_data function by Adam, to keep code organized.
         view_data(df)
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
